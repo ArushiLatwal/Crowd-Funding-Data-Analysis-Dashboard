@@ -43,7 +43,7 @@ Analyzes crowdfunding performance with KPIs such as:
 * Total amount raised by successful campaigns
 * Project distribution by category and country
 
-![Power BI Dashboard](visualizations_preview/PowerBi_preview.png)
+![Power BI Dashboard](Visualizations_preview/Visualizations_preview/PowerBi_preview.png)
 
 ---
 
@@ -55,7 +55,7 @@ Provides insights into:
 * Projects distribution by category
 * Project trends by year, quarter, and month
 
-![Excel Dashboard](visualizations_preview/Excel_preview.png)
+![Excel Dashboard](Visualizations_preview/Visualizations_preview/Excel_preview.png)
 
 ---
 
@@ -67,7 +67,7 @@ Interactive visualizations including:
 * Number of projects by country and category
 * Success rate by goal range
 
-![Tableau Dashboard](visualizations_preview/Tableau_preview.png)
+![Tableau Dashboard](Visualizations_preview/Visualizations_preview/Tableau_preview.png)
 
 ---
 
